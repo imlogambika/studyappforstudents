@@ -1,36 +1,36 @@
 Study App 📚
-Welcome to the Study App, your go-to companion for organizing, managing, and tracking your study tasks efficiently. Whether you're preparing for exams or setting up a daily study routine, this app helps you stay on top of your educational goals.
 
+Welcome to the Study App, your go-to companion for organizing, managing, and tracking your study tasks efficiently. Whether you're preparing for exams or setting up a daily study routine, this app helps you stay on top of your educational goals.
+------------------------------
+-----------------------------
 Key Features 🚀
+
 Task Management: Easily create, update, and delete your study tasks.
 Reminder Notifications: Set reminders for your study sessions to stay on track.
 Progress Tracker: Visualize your study progress with task completion statistics.
 Study Planner: Plan your study schedule and set goals to stay organized.
 Dark Mode: Switch to dark mode for a more comfortable study experience at night.
+
+----------------------------------
+----------------------------------
 Technologies Used 💻
 Frontend: Kotlin, Android Studio
 Database: SQLite (for local data storage)
 User Interface: XML (for layout and design)
 Libraries/Tools: Jetpack components, Notification API
-Screenshots 📸
-Add your app screenshots here to give users a preview of the app's interface.
 
-
+----------------------------------
+---------------------------------
 Installation & Setup 🚧
 Prerequisites:
 Android Studio installed on your machine.
 Basic knowledge of Kotlin and Android development.
 Steps to Run Locally:
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/StudyApp.git
+Clone the repository
 Open in Android Studio:
 
 Launch Android Studio and open the project folder.
 Build & Run:
-
 Select your device (physical or emulator).
 Click on the "Run" button in Android Studio to launch the app.
 Usage Guide 📋:
@@ -39,22 +39,19 @@ Create Tasks: Add study tasks with descriptions, due dates, and reminders.
 Set Reminders: Never forget a study session by setting up notifications.
 Track Progress: View completed tasks and stay motivated by tracking your study goals.
 Study Plan: Organize your study schedule and set deadlines for improved focus.
+
+
+
+:)
 Contributing 🤝
 We welcome contributions to improve the app! To contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to your branch (git push origin feature-branch).
-Open a pull request.
-License 📜
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
 
 Acknowledgements 🎉
-Thanks to the Android development community for the resources and tutorials.
-Special thanks to [Your Mentor/Instructor/Teammates] for their support.
+
 Contact 📧
 For any questions or feedback, feel free to contact:
 
-Email: your.email@example.com
+Email: your.logambilkanarayansamy@gmail.com
+
